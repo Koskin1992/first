@@ -1,0 +1,237 @@
+/* Вся подложа */
+body{
+    font-family: 'Montserrat', sans-serif;
+
+    background-color: #f5f7fa;
+}
+
+/* Полностью все */
+.main-container{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Правая колонка  */
+.main-containe-section{
+    padding: 100px 90px;
+}
+
+.about-me-section{
+    background: #fff;
+ 
+}
+.name-section{
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 55px;
+color: #000000;
+}
+.about-me-text{
+    width: 400px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;   
+    color: #595959;
+    }
+    .my-contant-name{
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 27px;
+margin-bottom: 8px;
+color: #000000;
+    }
+
+.about-me-profesion{
+font-family: Courier, monospace;
+font-style: 'cursive';
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+margin:0 0 20px 0;
+color: #000;
+}
+
+.my-projects-section{
+    background: #fff;
+    }
+    .numer-project{
+        padding: 13px;
+    }
+.Projects-item-First{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;    
+    color: #000000;
+
+}
+.Projects-item-First-point{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 13px;
+    color: #595959;
+}
+.Projects-item-First-text{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.projects-text{
+    color: #595959;
+}
+
+.Work-expirence-section{
+    background: #fff;
+       }
+.my-contant-name{
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+padding-top: 51px;
+color: #000000;
+}
+.profesion{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.Prof{color:  rgb(226, 77, 8);
+    padding-bottom: 8px;
+}
+.date{
+    font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+}
+/* тип всего содержания справа */
+.point-text-calibation{
+    padding-left: 13px;
+    margin-bottom: 16px;
+}
+.All-text-imeg{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.All-text-type{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+.bags-L{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+}
+.bags-P{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;   
+}
+
+
+
+
+
+.my-education-section{
+    background: #fff;
+   }
+.the-end-point{
+    margin-top: 43px;
+}
+
+
+
+
+
+
+   /* Левая колонка */
+.saide-bar-section{
+    
+    background-color: #c7ced6;
+    width: 370px;
+    padding: 40px 0;
+}
+            .saide-bar-title{
+                font-style: normal;
+                font-weight: bold;
+                font-size: 22px;
+                line-height: 27px;
+                color: #fff;
+                margin-bottom: 10px;
+            }
+.contacts-section{
+    margin: 50px 0 0 50px;
+}
+                /* контатная информация */
+            .contact-type{
+                font-weight: bold;
+                font-size: 14px;
+                line-height: 24px;
+                margin-right: 8px;
+                color: rgb(6, 6, 6);
+            }
+            .contact-link{
+                font-style: normal;
+                font-weight: normal;
+                font-size: 14px;
+                line-height: 24px;
+                color: rgb(1, 1, 1);
+
+            }
+.tech-skills-section{
+    margin: 50px 0 0 50px;
+}
+.position-text{
+    padding-left: 15px;
+
+}
+.tech-skills-list{
+color: rgb(226, 77, 8);
+
+}       
+.tech-skills-list-item{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #fff;
+} 
+.Soft-Skills-section{
+    margin: 50px 0 0 50px;
+}
+.Soft-Skills-text{
+    color: rgb(226, 77, 8);
+}
+.Soft-Skills-text-item{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+
+}
